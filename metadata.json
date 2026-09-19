@@ -1,0 +1,6 @@
+{
+  "name": "vian pwa loader",
+  "description": "On-demand PWA runner and retro-style emulator for Android 15 Go",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
